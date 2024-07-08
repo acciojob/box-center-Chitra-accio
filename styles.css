@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#eg1{
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	border:2px solid black;
+	background-position:center;
+}
+#eg2{
+	color:purple;
+	text-align:center;
+	line-height:160px;
+	font-family:bisque;
+	font-size:30px;
+}
